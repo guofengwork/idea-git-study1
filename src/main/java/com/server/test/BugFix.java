@@ -9,8 +9,8 @@ public class BugFix {
     }
 
     @Test
-    public void test1(){
-        System.out.println("偷偷又修复了1次bug");
+    public void test3(){
+        System.out.println("否定了用户修改，管理员重新修改");
     }
 
 }
