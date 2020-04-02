@@ -13,4 +13,9 @@ public class BugFix {
         System.out.println("否定了用户修改，管理员重新修改");
     }
 
+    @Test
+    public void test4(){
+        System.out.println("管理员也不知道怎么改好了");
+    }
+
 }
