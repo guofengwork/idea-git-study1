@@ -13,4 +13,9 @@ public class BugFix {
         System.out.println("偷偷又修复了1次bug");
     }
 
+    @Test
+    public void test2(){
+        System.out.println("还偷偷又修复了1次bug");
+    }
+
 }
